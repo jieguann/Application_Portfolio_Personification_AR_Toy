@@ -1,1 +1,8 @@
-# Application_Portfolio_Personification_AR_Toy
+# Application_Portfolio_Personification_AR_Toy![1](https://user-images.githubusercontent.com/60665347/205994088-66d23739-87a2-407f-b57b-a6f2642fe22c.jpg)
+![Doll](https://user-images.githubusercontent.com/60665347/205994092-159f8bc1-d3d0-45fc-abfb-2d65c32d9889.jpg)
+![Slide1](https://user-images.githubusercontent.com/60665347/205994094-b68b52f5-a358-4477-b71c-f4ee7d0a883f.JPG)
+![Slide2](https://user-images.githubusercontent.com/60665347/205994097-b1a1c38c-5ab5-4384-b075-98df54b3c05c.JPG)
+![Slide3](https://user-images.githubusercontent.com/60665347/205994102-89d1099d-ef26-47fb-9819-5423f4bd5225.JPG)
+![Slide4](https://user-images.githubusercontent.com/60665347/205994112-d1bbabc3-5f77-409d-948a-2fc0e3cec147.JPG)
+![Slide5](https://user-images.githubusercontent.com/60665347/205994117-398e8637-dcbf-4867-afd3-5d92c73568db.JPG)
+![Slide6](https://user-images.githubusercontent.com/60665347/205994119-159600ce-e797-4fd7-9e36-b7dfd7f1c118.JPG)
