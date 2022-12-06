@@ -1,0 +1,10 @@
+Reviewer 1 of RiTA 2019 submission 15
+
+Comments to the author
+======================
+
+1. Some texts in the Figures 3,4 and 7 are blurred and hard
+to read. The reviewer recommend to redraw the Figures.
+2. Chapter V shows not the discussion of usability test but
+show only some case studies. The reviewer recommend to add
+some more discussion for each experiment.

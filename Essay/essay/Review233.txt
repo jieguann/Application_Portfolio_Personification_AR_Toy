@@ -1,0 +1,16 @@
+Reviewer 3 of RiTA 2019 submission 15
+
+Comments to the author
+======================
+
+The paper presents a personification toy and some usability
+test results on it. The subject is interesting and within
+the scope of the conference, but it is my opinion that the
+paper has two critical flaws:
+1.	There is only one testee, which is not enough
+number to derive statistically meaningful result, and the
+test is not systemically designed. Therefore, the analysis
+results are simply unacceptable.
+2.	It looks that the paper is not finalized. Several
+major and minor editorial errors are found, and there is no
+conclusion. 
